@@ -1,4 +1,4 @@
-# DS1302 RTC library for Arduino
+#BIBLIOTECA RTC DS1302 PARA ARDUINO
 
 This project is a library for the [Arduino](http://arduino.cc) platform. It
 provides a simple interface to the
